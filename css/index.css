@@ -1,0 +1,12 @@
+.loader {
+    width: 50px;
+    position: absolute;
+    top: 110px;
+    left: 385px;
+    display: none;
+}
+
+
+.h1-1 {
+    color: red;
+}
